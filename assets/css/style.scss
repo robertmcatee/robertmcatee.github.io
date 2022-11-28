@@ -17,6 +17,8 @@ body {
 header {
   background: #073642	!important;
   border-bottom: none !important;
+  padding: 1rem 0 1rem 0 !important;
+  margin: 0 0 1rem 0 !important;
 }
 
 header h1 {
@@ -32,6 +34,7 @@ header h2 {
   font-family: monospace !important;
   font-size: large !important;
   font-weight: bold !important;
+  margin: 0 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
