@@ -7,6 +7,7 @@ body {
   background: #002b36	!important;
   color: #839496 !important;
   font-family: monospace !important;
+  font-size: 1rem !important;
 }
 
 #downloads {
@@ -22,18 +23,23 @@ header h1 {
   color: #2aa198 !important;
   text-shadow: none !important;
   font-family: monospace !important;
+  font-size: 2rem !important;
 }
 
 header h2 {
-  color: #cb4b16 !important;
+  color: #2aa198 !important;
   text-shadow: none !important;
   font-family: monospace !important;
+  font-size: large !important;
+  font-weight: bold !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #cb4b16 !important;
   text-shadow: none !important;
   font-family: monospace !important;
+  font-size: 1.5rem !important;
+  font-weight: bold !important;
 }
 
 ul li {
