@@ -1,6 +1,6 @@
 # About Me
 
-I am a leader with experience working in Information Technology Management and Software Engineering.
+I am a software engineering leader with experience working in the banking, and government sectors.
 
 Based in San Antonio, Texas, I currently serve as Director of Information Technology for a court within the federal judiciary of the United States where I work to bring the digital transformation to the administration of justice.
 
