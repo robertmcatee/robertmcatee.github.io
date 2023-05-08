@@ -6,7 +6,6 @@ I am passionate about using technology to solve real-world problems. I am partic
 
 Apart from work, I enjoy spending time outdoors with my family and friends. Other interests include music, astronomy, and travel.
 
-My interests include literate programming, declarative configuration, and container orchestration.
 - [View my profile on LinkedIn](https://www.linkedin.com/in/robertmcatee)
 - [View my portfolio on GitHub](https://github.com/robertmcatee)
 
