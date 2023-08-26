@@ -1,6 +1,6 @@
 # About
 
-I am a software engineering leader with over 10 years of experience in the banking and government sectors. I am currently the Director of Information Technology for a court within the federal judiciary of the United States, where I lead a team of engineers in bringing digital transformation to the administration of justice. I am also the founder of the Federal Courts Software Factory, a centralized development and deployment environment that uses automation and standardized processes to produce software applications.
+I am a software engineering leader with over 12 years of experience in the banking and government sectors. As the Division Chief for Hosting Services at the Administrative Office of the U.S. Courts (AOUSC), I lead a team that provides a multi-cloud, multi-vendor ecosystem that offers a comprehensive range of cloud-based services and solutions to the federal judiciary. I am also the founder of the Federal Courts Software Factory, a centralized development and deployment environment that uses automation and standardized processes to produce software applications.
 
 I am passionate about using technology to solve real-world problems. I am particularly interested in literate programming, declarative configuration, and container orchestration. I have a proven track record of success in leading and delivering complex software projects.
 
