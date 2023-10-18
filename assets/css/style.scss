@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 body {
-  background: #000	!important;
-  color: #f6f6f6 !important;
+  background: #000 !important;
+  color: #fff !important;
   font-family: sans-serif !important;
   font-size: 1.25rem !important;
 }
@@ -34,7 +34,7 @@ header h1 {
 }
 
 header h2 {
-  color: #f6f6f6 !important;
+  color: #fff !important;
   text-shadow: none !important;
   font-family: sans-serif !important;
   font-size: 1.25rem !important;
@@ -43,7 +43,7 @@ header h2 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #f6f6f6 !important;
+  color: #ff0000 !important;
   text-shadow: none !important;
   font-family: sans-serif !important;
   font-size: 1.5rem !important;
