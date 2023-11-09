@@ -42,11 +42,19 @@ header h2 {
   margin: 0 !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
   color: black !important;
   text-shadow: none !important;
   font-family: sans-serif !important;
   font-size: 1.8rem !important;
+  font-weight: bold !important;
+}
+
+h2, h3, h4, h5, h6 {
+  color: black !important;
+  text-shadow: none !important;
+  font-family: sans-serif !important;
+  font-size: 1.6rem !important;
   font-weight: bold !important;
 }
 
