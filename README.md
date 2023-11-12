@@ -39,7 +39,7 @@ Western Governors University
 * Contracting Officer's Representative (FAC-COR) [🔗](https://www.fai.gov/certification/fac-cor)
 * Amateur Radio License - Callsign: AG5F [🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=226950)
 
-## 🎫 Certificates and badges
+## 🎫 Certificates
 * ITIL® Foundation Certificate in IT Service Management - Credential ID: GR671571199RM [🔗](https://www.peoplecert.org/for-corporations/certificate-verification-service)
 * CompTIA Certification (A+, Network+, Security+, Project+) [🔗](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=2BP2YYWCBMVQKT5K)
 * Certified Internet Web Professional [🔗](https://cp.certmetrics.com/ciwcerts/en/public/transcript/cb5640a81705471a8223a746d1aef0d4)
