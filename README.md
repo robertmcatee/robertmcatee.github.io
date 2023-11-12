@@ -35,14 +35,16 @@ Universidad Nacional Autónoma de México
 * Bachelor of Science (B.S.), Information Technology \
 Western Governors University
 
-## 📜 Licenses & certifications
+## 🪪 Licenses & certifications
 * Contracting Officer's Representative (FAC-COR) [🔗](https://www.fai.gov/certification/fac-cor)
+* Amateur Radio License - Callsign: AG5F [🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=226950)
+
+## 🎫 Certificates and badges
 * ITIL® Foundation Certificate in IT Service Management - Credential ID: GR671571199RM [🔗](https://www.peoplecert.org/for-corporations/certificate-verification-service)
 * CompTIA Certification (A+, Network+, Security+, Project+) [🔗](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=2BP2YYWCBMVQKT5K)
 * Certified Internet Web Professional [🔗](https://cp.certmetrics.com/ciwcerts/en/public/transcript/cb5640a81705471a8223a746d1aef0d4)
 * Microsoft Certified Professional [🔗](https://learn.microsoft.com/en-us/users/robertmcatee/transcript/d8yj2a02nko6nj0?source=docs)
 * Oracle Certified Professional [🔗](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D028F30096A2F27F72F5F9549E08D4FE37FC7002EB92C9DEAEB12132AFEB7B8C)
-* Amateur Radio License - Callsign: AG5F [🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=226950)
 
 ## 🔰 Skills
 * Cloud Operations and Platform Enablement
@@ -71,7 +73,7 @@ Western Governors University
 * Marine Corps Cyber Auxiliary
 * Free Software Foundation
 
-## 🎫 Memberships
+## 📛 Memberships
 * Federal Bar Association
 * International Information System Security Certification Consortium (ISC2)
 
@@ -96,3 +98,6 @@ Western Governors University
 ## ⚖️ Disclaimers
 * No engineering services or legal advice are offered to the public.
 * The contents of this website are personal.
+
+
+![qr code for this site](qr-code.png)
