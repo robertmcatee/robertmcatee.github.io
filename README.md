@@ -5,19 +5,15 @@
 * 2023 - Present \
 Division Chief, Cloud Hosting & Networks Office \
 Administrative Office of the U.S. Courts
-
 * 2020 - 2023 \
 Director of Information Technology \
 U.S. Bankruptcy Court for the Western District of Texas
-
 * 2017 - 2019 \
 Associate Director of Information Technology \
 U.S. District Court for the Western District of Texas
-
 * 2014 - 2017 \
 IT Manager, Application Development \
 IBC Bank
-
 * 2007 - 2014 \
 Software Engineering, Individual Contributor Roles \
 Multiple Companies
@@ -25,23 +21,23 @@ Multiple Companies
 ## 🎓 Education
 * Doctor of Laws (LL.D.) \
 Instituto Nacional de Migración
-
 * Master of Business Administration (M.B.A.) \
 Western Governors University
-
 * Study Abroad in Mexico City \
 Universidad Nacional Autónoma de México
-
 * Bachelor of Science (B.S.), Information Technology \
 Western Governors University
 
 ## 🪪 Licenses & certifications
 * Contracting Officer's Representative (FAC-COR) [🔗](https://www.fai.gov/certification/fac-cor)
-* Amateur Radio License - Callsign: AG5F [🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=226950)
+* Amateur Radio License [🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=226950) \
+Callsign: AG5F 
 
 ## 🎫 Certificates
-* ITIL® Foundation Certificate in IT Service Management - Credential ID: GR671571199RM [🔗](https://www.peoplecert.org/for-corporations/certificate-verification-service)
-* CompTIA Certification (A+, Network+, Security+, Project+) [🔗](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=2BP2YYWCBMVQKT5K)
+* ITIL® Foundation Certificate in IT Service Management [🔗](https://www.peoplecert.org/for-corporations/certificate-verification-service) \
+Credential ID: GR671571199RM
+* CompTIA Certification [🔗](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=2BP2YYWCBMVQKT5K) \
+A+, Network+, Security+, Project+
 * Certified Internet Web Professional [🔗](https://cp.certmetrics.com/ciwcerts/en/public/transcript/cb5640a81705471a8223a746d1aef0d4)
 * Microsoft Certified Professional [🔗](https://learn.microsoft.com/en-us/users/robertmcatee/transcript/d8yj2a02nko6nj0?source=docs)
 * Oracle Certified Professional [🔗](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D028F30096A2F27F72F5F9549E08D4FE37FC7002EB92C9DEAEB12132AFEB7B8C)
@@ -98,6 +94,5 @@ Western Governors University
 ## ⚖️ Disclaimers
 * No engineering services or legal advice are offered to the public.
 * The contents of this website are personal.
-
 
 ![qr code for this site](qr-code.png)
