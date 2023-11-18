@@ -3,7 +3,7 @@
 
 ## 💼 Experience
 * 2023 - Present \
-Division Chief, Cloud Hosting & Networks Office \
+Division Chief of Hosting Services \
 Administrative Office of the U.S. Courts
 * 2020 - 2023 \
 Director of Information Technology \
@@ -12,10 +12,10 @@ U.S. Bankruptcy Court for the Western District of Texas
 Associate Director of Information Technology \
 U.S. District Court for the Western District of Texas
 * 2014 - 2017 \
-IT Manager, Application Development \
+Manager of Application Development \
 IBC Bank
 * 2007 - 2014 \
-Software Engineering, Individual Contributor Roles \
+Software Engineer \
 Multiple Companies
 
 ## 🎓 Education
