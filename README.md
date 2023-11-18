@@ -67,6 +67,7 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 ## 🎗️ Volunteering
 * Marine Corps Cyber Auxiliary
 * Free Software Foundation
+* Cloud Native Computing Foundation
 
 ## 📛 Memberships
 * Federal Bar Association
