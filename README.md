@@ -31,6 +31,8 @@ Western Governors University
 ## 🪪 Licenses & certifications
 * [Contracting Officer's Representative (FAC-COR) 🔗](https://www.fai.gov/certification/fac-cor)
 * [Amateur Radio License 🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=226950)
+* Texas Wedding Officiant
+* Texas Driver License
 
 ## 🎫 Certificates
 * [ITIL® Foundation Certificate in IT Service Management 🔗](https://www.peoplecert.org/for-corporations/certificate-verification-service) \
@@ -55,9 +57,9 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * Continuous improvement
 
 ## 🗣️ Languages
-* English, Native or bilingual proficiency
-* Spanish, Native or bilingual proficiency
-* German, Limited working proficiency
+* 🇺🇲 English, Native or bilingual proficiency
+* 🇲🇽 Spanish, Native or bilingual proficiency
+* 🇩🇪 German, Limited working proficiency
 
 ## 🎖️ Honors & Awards
 * Kentucky Colonel, The Commonwealth of Kentucky
@@ -65,9 +67,9 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * Honorary Admiral in the Texas Navy, The State of Texas
 
 ## 🎗️ Volunteering
+* Cloud Native Computing Foundation
 * Marine Corps Cyber Auxiliary
 * Free Software Foundation
-* Cloud Native Computing Foundation
 
 ## 📛 Memberships
 * Federal Bar Association
@@ -95,6 +97,7 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * 🐃 GNU Hacking
 * 🧬 Guile Scheming
 * 🎻 Fiddling
+* 🥋 Kajukenbo
 * ☄️ Astronomy
 * ☕ Coffee
 
