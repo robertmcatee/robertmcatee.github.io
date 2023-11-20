@@ -81,7 +81,6 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * [McAtee, Robert. "Ahnentafel of Robert McAtee." Google Docs, 11 Nov. 2011 🔗](https://docs.google.com/document/d/1cfINq0EpfvZh7y5q0bEj2X7GOajwXPklmjRmErUOYhU)
 
 ## 🎯 Projects
-* [GitHub Portfolio 🔗](https://github.com/robertmcatee)
 * [Federal Courts Software Factory, a centralized development and deployment environment that uses automation and standardized processes to develop software applications 🔗](https://github.com/federal-courts-software-factory)
 * [Saigo, a simple encryption toolkit written in Go 🔗](https://github.com/robertmcatee/saigo)
 * [Emacs Configuration File 🔗](https://github.com/robertmcatee/.emacs.d/blob/master/init.el)
@@ -100,6 +99,10 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * 🥋 Kajukenbo
 * ☄️ Astronomy
 * ☕ Coffee
+
+## 🌐 Social Media
+* [LinkedIn Profile 🔗](https://www.linkedin.com/in/robertmcatee)
+* [GitHub Portfolio 🔗](https://github.com/robertmcatee)
 
 ## ⚖️ Disclaimers
 * No engineering services or legal advice are offered to the public.
