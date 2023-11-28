@@ -31,7 +31,7 @@ Western Governors University
 ## 🪪 Licenses & certifications
 * [Contracting Officer's Representative (FAC-COR) 🔗](https://www.fai.gov/certification/fac-cor)
 * [Amateur Radio License 🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=226950)
-* [Marriage Officiant 🔗](https://statutes.capitol.texas.gov/Docs/FA/htm/FA.2.htm#2.202)
+* [Marriage Officiant 🔗](https://guides.sll.texas.gov/marriage-in-texas/conducting-the-ceremony)
 * [Texas Driver License 🔗](https://www.dps.texas.gov/section/driver-license/how-apply-texas-driver-license)
 
 ## 🎫 Certificates
