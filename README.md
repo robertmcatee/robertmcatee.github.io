@@ -3,7 +3,7 @@
 
 ## 💼 Experience
 * 2023 - Present \
-Chief of Hosting Services Division \
+Chief of the Hosting Services Division \
 Administrative Office of the U.S. Courts
 * 2020 - 2023 \
 Director of Information Technology \
@@ -19,8 +19,6 @@ Software Engineer \
 Multiple Companies
 
 ## 🎓 Education
-* Doctor of Laws (LL.D.) \
-Instituto Nacional de Migración
 * Master of Business Administration (M.B.A.) \
 Western Governors University
 * Study Abroad in Mexico City \
@@ -28,13 +26,13 @@ Universidad Nacional Autónoma de México
 * Bachelor of Science (B.S.), Information Technology \
 Western Governors University
 
-## 🪪 Licenses & certifications
-* [Contracting Officer's Representative (FAC-COR) 🔗](https://www.fai.gov/certification/fac-cor)
+## 🪪 Licenses
 * [Amateur Radio License 🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=226950)
 * [Texas Driver License 🔗](https://www.dps.texas.gov/section/driver-license/how-apply-texas-driver-license)
 * [Authorized Marriage Officiant 🔗](https://guides.sll.texas.gov/marriage-in-texas/conducting-the-ceremony)
 
-## 🎫 Certificates
+## 🎫 Certifications
+* [Contracting Officer's Representative (FAC-COR) 🔗](https://www.fai.gov/certification/fac-cor)
 * [ITIL® Foundation Certificate in IT Service Management 🔗](https://www.peoplecert.org/for-corporations/certificate-verification-service) \
 Credential ID: GR671571199RM
 * [CompTIA Certifications \
