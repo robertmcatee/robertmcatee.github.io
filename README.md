@@ -19,11 +19,11 @@ Software Engineer \
 Multiple Companies
 
 ## 🎓 Education
-* Master of Business Administration (M.B.A.) \
+* Master of Business Administration \
 Western Governors University
 * Study Abroad in Mexico City \
 Universidad Nacional Autónoma de México
-* Bachelor of Science (B.S.), Information Technology \
+* Bachelor of Science, Information Technology \
 Western Governors University
 
 ## 🪪 Licenses
