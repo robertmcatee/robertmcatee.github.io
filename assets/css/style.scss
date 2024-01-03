@@ -25,6 +25,12 @@ header h1:before {
   content: "" !important;
 }
 
+header h1:after {
+  content: "™";
+  font-size: 0.33rem;
+  vertical-align: super;
+}
+
 header h1 {
   color: #ff2400 !important;
   text-shadow: none !important;
