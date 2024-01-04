@@ -27,8 +27,10 @@ header h1:before {
 
 header h1:after {
   content: "™";
-  font-size: 0.5em;
-  vertical-align: super;
+  font-size: 0.4em;
+  vertical-align: middle;
+  position: relative;
+  top: -0.33em;
 }
 
 header h1 {
