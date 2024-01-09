@@ -70,8 +70,8 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 
 ## 📛 Memberships
 * Federal Bar Association
-* International Information System Security Certification Consortium (ISC2)
 * Free Software Foundation
+* International Information System Security Certification Consortium (ISC2)
 
 ## 📚 Publications
 * [McAtee, Robert. "McAtee Tartan" The Scottish Register of Tartans, 14 Apr. 2020 🔗](https://www.tartanregister.gov.uk/tartanDetails?ref=12817.)
@@ -85,8 +85,8 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 
 ## 👨‍💻 How I do my computing
 * 📱 Android on a Google Pixel 5a
-* 💻 ChromeOS Flex on a Lenovo T440
-* 🖥️ Fedora Silverblue on a Lenovo m93p w/ Acer X233H 23.3" LCD Monitor
+* 🖥️ Ubuntu on a Lenovo m93p
+* 📺 Acer X233H 23.3" LCD Monitor
 * ⌨️ Velocifire TKL02 87 Key Mechanical Keyboard
 * 🖲️ Logitech Trackman Marble
 
