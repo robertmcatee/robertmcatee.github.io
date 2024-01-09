@@ -92,10 +92,8 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 
 ## ❓ Ask about
 * 🐃 GNU Hacking
-* 🧬 Guile Scheming
+* 📡 Amateur Radio
 * 🎻 Fiddling
-* 🥋 Kajukenbo
-* ☄️ Astronomy
 * ☕ Coffee
 
 ## 🌐 Social Media
