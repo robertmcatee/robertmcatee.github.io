@@ -97,7 +97,7 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * 🎻 Fiddling
 * ☕ Coffee
 
-## 🌐 Social Media
+## 🗯️ Social Media
 * [LinkedIn Profile 🔗](https://www.linkedin.com/in/robertmcatee)
 * [GitHub Portfolio 🔗](https://github.com/robertmcatee)
 
