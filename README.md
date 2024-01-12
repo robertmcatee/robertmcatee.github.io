@@ -54,11 +54,11 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * Change management
 * Continuous improvement
 
-## 🗣️ Languages
-* 🇺🇲 English, Native or bilingual proficiency
-* 🇲🇽 Spanish, Native or bilingual proficiency
-* 🇱🇹 Lithuanian, Limited working proficiency
-* 🇩🇪 German, Limited working proficiency
+## 🌐 Languages
+* English, Native or bilingual proficiency
+* German, Limited working proficiency
+* Lithuanian, Limited working proficiency
+* Spanish, Native or bilingual proficiency 
 
 ## 🎖️ Honors & Awards
 * Kentucky Colonel, The Commonwealth of Kentucky
