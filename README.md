@@ -57,6 +57,7 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 ## 🗣️ Languages
 * 🇺🇲 English, Native or bilingual proficiency
 * 🇲🇽 Spanish, Native or bilingual proficiency
+* 🇱🇹 Lithuanian, Limited working proficiency
 * 🇩🇪 German, Limited working proficiency
 
 ## 🎖️ Honors & Awards
@@ -86,9 +87,9 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 ## 👨‍💻 How I do my computing
 * 📱 Android on a Google Pixel 5a
 * 🖥️ Ubuntu on a Lenovo m93p
-* 📺 Acer X233H 23.3" LCD Monitor
-* ⌨️ Velocifire TKL02 87 Key Mechanical Keyboard
-* 🖲️ Logitech Trackman Marble
+  * 📺 Acer X233H 23.3" LCD Monitor
+  * ⌨️ Velocifire TKL02 87 Key Mechanical Keyboard
+  * 🖲️ Logitech Trackman Marble
 
 ## ❓ Ask about
 * 🐃 GNU Hacking
