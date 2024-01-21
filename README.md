@@ -87,7 +87,9 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * [Emacs Configuration File 🔗](https://github.com/robertmcatee/.emacs.d/blob/master/init.el)
 
 ## 👨‍💻 How I do my computing
+* 📻 TYT MD-UV390 Digital Dual Band Radio
 * 📱 Android on a Google Pixel 5a
+* 💻 Arch Linux on a Lenovo T440
 * 🖥️ Ubuntu on a Lenovo m93p
   * 📺 Acer X233H 23.3" LCD Monitor
   * ⌨️ Velocifire TKL02 87 Key Mechanical Keyboard
