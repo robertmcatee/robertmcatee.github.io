@@ -27,6 +27,7 @@ Universidad Nacional Autónoma de México
 Western Governors University
 
 ## 🪪 Licenses
+* Registered Air Conditioning & Refrigeration Technician
 * [Amateur Radio License 🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=226950)
 * [Texas Driver License 🔗](https://www.dps.texas.gov/section/driver-license/how-apply-texas-driver-license)
 * [Authorized Marriage Officiant 🔗](https://guides.sll.texas.gov/marriage-in-texas/conducting-the-ceremony)
@@ -42,6 +43,7 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * [Certified Internet Web Professional 🔗](https://cp.certmetrics.com/ciwcerts/en/public/transcript/cb5640a81705471a8223a746d1aef0d4)
 * [Microsoft Certified Professional 🔗](https://learn.microsoft.com/en-us/users/robertmcatee/transcript/d8yj2a02nko6nj0?source=docs)
 * [Oracle Certified Professional 🔗](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D028F30096A2F27F72F5F9549E08D4FE37FC7002EB92C9DEAEB12132AFEB7B8C)
+* EPA Section 608 Technician Certification - Universal
 
 ## 🔰 Skills
 * Cloud Operations and Platform Enablement
