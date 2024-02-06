@@ -27,7 +27,9 @@ Universidad Nacional Autónoma de México
 Western Governors University
 
 ## 🪪 Licenses
-* Registered Air Conditioning & Refrigeration Technician
+* [A/C Technician 🔗](https://www.tdlr.texas.gov/LicenseSearch/SearchResultDetail.asp?1=ACTECH00136577&2=REG) \
+License #: 136577
+
 * [Amateur Radio License 🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=226950)
 * [Texas Driver License 🔗](https://www.dps.texas.gov/section/driver-license/how-apply-texas-driver-license)
 * [Authorized Marriage Officiant 🔗](https://guides.sll.texas.gov/marriage-in-texas/conducting-the-ceremony)
