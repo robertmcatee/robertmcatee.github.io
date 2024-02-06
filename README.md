@@ -43,7 +43,7 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * [Certified Internet Web Professional 🔗](https://cp.certmetrics.com/ciwcerts/en/public/transcript/cb5640a81705471a8223a746d1aef0d4)
 * [Microsoft Certified Professional 🔗](https://learn.microsoft.com/en-us/users/robertmcatee/transcript/d8yj2a02nko6nj0?source=docs)
 * [Oracle Certified Professional 🔗](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D028F30096A2F27F72F5F9549E08D4FE37FC7002EB92C9DEAEB12132AFEB7B8C)
-* [EPA Section 608 Technician Certification - Universal 🔗](https://www.epa608.com/technician-verification.html) \
+* [EPA Section 608 Technician Certification - Universal 🔗](https://skillcat.app/mod/customcert/verify_certificate.php) \
 Certification Number: bCujoNpSN3
 
 ## 🔰 Skills
