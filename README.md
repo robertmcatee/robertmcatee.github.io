@@ -89,18 +89,23 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * [Emacs Configuration File 🔗](https://github.com/robertmcatee/.emacs.d/blob/master/init.el)
 
 ## 👨‍💻 How I do my computing
+📱 Android on a Google Pixel 5a
+
+### 🏠 Home
 * 🧮 Texas Instruments BA II Plus Professional Financial Calculator
-* 📻 TYT MD-UV390 Digital Dual Band Radio
-* 📱 Android on a Google Pixel 5a
-* 💻 Arch Linux on a Lenovo T440
+* 📻 TYT MD-UV390 Digital Dual Band DMR Transceiver
 * 🖥️ Ubuntu on a Lenovo m93p
-  * 📺 Acer X233H 23.3" LCD Monitor
+  * 📺 Acer X233H 23.3” LCD Monitor
   * ⌨️ Velocifire TKL02 87 Key Mechanical Keyboard
   * 🖲️ Logitech Trackman Marble
 
+### 🎒 Backpack
+* 🧮 Sharp EL501X2BWH Engineering/Scientific Calculator
+* 📻 Baofeng UV-5R V2+ Dual Band FM Tranceiver
+* 💻 Arch Linux on a Lenovo T440
+
 ## ❓ Ask about
 * 🐃 GNU Hacking
-* 📡 Amateur Radio
 * 🎻 Fiddling
 * ☕ Coffee
 
