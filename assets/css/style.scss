@@ -58,11 +58,19 @@ h1 {
   font-weight: bold !important;
 }
 
-h2, h3, h4, h5, h6 {
+h2 {
   color: black !important;
   text-shadow: none !important;
   font-family: sans-serif !important;
   font-size: 1.6rem !important;
+  font-weight: bold !important;
+}
+
+h3, h4, h5, h6 {
+  color: black !important;
+  text-shadow: none !important;
+  font-family: sans-serif !important;
+  font-size: 1.3rem !important;
   font-weight: bold !important;
 }
 
