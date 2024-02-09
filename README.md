@@ -89,7 +89,15 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * [Emacs Configuration File 🔗](https://github.com/robertmcatee/.emacs.d/blob/master/init.el)
 
 ## 👨‍💻 How I do my computing
-📱 Android on a Google Pixel 5a
+
+### ✋ On Hand
+* 📱 Android on a Google Pixel 5a
+* 📻 Baofeng UV-5R V2+ Dual Band FM Tranceiver
+
+### 🎒 Backpack
+* 🧮 Sharp EL501X2BWH Engineering/Scientific Calculator
+* 📻 Baofeng UV-82 Dual Band FM Tranceiver
+* 💻 Arch Linux on a Lenovo T440
 
 ### 🏠 Home
 * 🧮 Texas Instruments BA II Plus Professional Financial Calculator
@@ -98,11 +106,6 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
   * 📺 Acer X233H 23.3” LCD Monitor
   * ⌨️ Velocifire TKL02 87 Key Mechanical Keyboard
   * 🖲️ Logitech Trackman Marble
-
-### 🎒 Backpack
-* 🧮 Sharp EL501X2BWH Engineering/Scientific Calculator
-* 📻 Baofeng UV-5R V2+ Dual Band FM Tranceiver
-* 💻 Arch Linux on a Lenovo T440
 
 ## ❓ Ask about
 * 🐃 GNU Hacking
