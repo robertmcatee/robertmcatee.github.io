@@ -92,11 +92,11 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 
 ### ✋ On Hand
 * 📱 Android on a Google Pixel 5a
-* 📻 Baofeng UV-5R V2+ Dual Band FM Tranceiver
+* 📻 Baofeng UV-82 Dual Band FM Tranceiver
 
 ### 🎒 Backpack
 * 🧮 Sharp EL501X2BWH Engineering/Scientific Calculator
-* 📻 Baofeng UV-82 Dual Band FM Tranceiver
+* 📻 Baofeng UV-5R V2+ Dual Band FM Tranceiver
 * 💻 Arch Linux on a Lenovo T440
 
 ### 🏠 Home
