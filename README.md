@@ -88,10 +88,11 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * [Saigo, a simple encryption toolkit written in Go 🔗](https://github.com/robertmcatee/saigo)
 * [Emacs Configuration File 🔗](https://github.com/robertmcatee/.emacs.d/blob/master/init.el)
 
-## 👨‍💻 How I do my computing
+## 👨‍💻 Setup
 * 🧮 Texas Instruments BA II Plus Professional Financial Calculator
 * 📻 TYT MD-UV390 Digital Dual Band DMR Transceiver
 * 📱 Android on a Google Pixel 5a
+* 💻 Arch Linux on a Lenovo T440
 * 🖥️ Ubuntu on a Lenovo m93p
   * 📺 Acer X233H 23.3” LCD Monitor
   * ⌨️ Velocifire TKL02 87 Key Mechanical Keyboard
