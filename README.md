@@ -29,19 +29,6 @@ Western Governors University
 ## 🪪 Licenses and certifications
 * [Certified Information Systems Security Professional (CISSP) 🔗](https://my.isc2.org/s/MemberVerification) \
 ISC2 ID Number: 762770
-* [ITIL® Foundation Certificate in IT Service Management 🔗](https://www.peoplecert.org/for-corporations/certificate-verification-service) \
-Credential ID: GR671571199RM
-* [CompTIA Certifications \
-A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=2BP2YYWCBMVQKT5K)
-* [Certified Internet Web Professional 🔗](https://cp.certmetrics.com/ciwcerts/en/public/transcript/cb5640a81705471a8223a746d1aef0d4)
-* [Microsoft Certified Professional 🔗](https://learn.microsoft.com/en-us/users/robertmcatee/transcript/d8yj2a02nko6nj0?source=docs)
-* [Oracle Certified Professional 🔗](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D028F30096A2F27F72F5F9549E08D4FE37FC7002EB92C9DEAEB12132AFEB7B8C)
-* [Contracting Officer's Representative (FAC-COR) 🔗](https://www.fai.gov/certification/fac-cor)
-* [A/C Technician License 🔗](https://www.tdlr.texas.gov/LicenseSearch/SearchResultDetail.asp?1=ACTECH00136577&2=REG)
-* [EPA Section 608 Technician Certification - Universal 🔗](https://skillcat.app/mod/customcert/verify_certificate.php?code=bCujoNpSN3)
-* [Amateur Radio License 🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=226950)
-* [Texas Driver License 🔗](https://www.dps.texas.gov/section/driver-license/how-apply-texas-driver-license)
-* [Authorized Marriage Officiant 🔗](https://guides.sll.texas.gov/marriage-in-texas/conducting-the-ceremony)
 
 ## 🔰 Skills
 * Cloud Operations and Platform Enablement
@@ -96,8 +83,10 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
   * ⌨️ Velocifire TKL02 87 Key Mechanical Keyboard
   * 🖲️ Logitech Trackman Marble
 
-## ❓ Ask about
+## 💡 Interests
 * 🐃 GNU Hacking
+* ❄️ Air Conditioning and Refrigeration
+* 📡 Ham Radio
 * 🎻 Fiddling
 * ☕ Coffee
 
