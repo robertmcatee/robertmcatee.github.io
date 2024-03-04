@@ -56,7 +56,6 @@ ISC2 ID Number: 762770
 ## 📛 Memberships
 * Federal Bar Association
 * Free Software Foundation
-* International Information System Security Certification Consortium (ISC2)
 
 ## 📚 Publications
 * [McAtee, Robert. "McAtee Tartan" The Scottish Register of Tartans, 14 Apr. 2020 🔗](https://www.tartanregister.gov.uk/tartanDetails?ref=12817.)
