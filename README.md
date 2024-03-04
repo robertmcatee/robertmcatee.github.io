@@ -21,8 +21,6 @@ Multiple Companies
 ## 🎓 Education
 * Master of Business Administration \
 Western Governors University
-* Study Abroad in Mexico City \
-Universidad Nacional Autónoma de México
 * Bachelor of Science, Information Technology \
 Western Governors University
 
@@ -44,15 +42,12 @@ ISC2 ID Number: 762770
 * Continuous improvement
 
 ## 🌐 Languages
-* English, Native or bilingual proficiency
 * German, Limited working proficiency
-* Lithuanian, Limited working proficiency
 * Spanish, Native or bilingual proficiency 
 
 ## 🎖️ Honors & Awards
 * Kentucky Colonel, The Commonwealth of Kentucky
 * Honorary Colonel, The State of Alabama
-* Honorary Admiral in the Texas Navy, The State of Texas
 
 ## 🎗️ Volunteering
 * Cloud Native Computing Foundation
