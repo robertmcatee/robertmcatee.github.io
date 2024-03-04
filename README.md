@@ -57,15 +57,9 @@ ISC2 ID Number: 762770
 * Federal Bar Association
 * Free Software Foundation
 
-## 📚 Publications
-* [McAtee, Robert. "McAtee Tartan" The Scottish Register of Tartans, 14 Apr. 2020 🔗](https://www.tartanregister.gov.uk/tartanDetails?ref=12817.)
-* [McAtee, Robert. "Achievement of Arms of Robert McAtee" Google Docs, 7 Jul. 2017 🔗](https://docs.google.com/document/d/1SMOO2RYMsaUhcvirnEURA5wGhilk8LLbX0K8ys1hjkI)
-* [McAtee, Robert. "Ahnentafel of Robert McAtee." Google Docs, 11 Nov. 2011 🔗](https://docs.google.com/document/d/1cfINq0EpfvZh7y5q0bEj2X7GOajwXPklmjRmErUOYhU)
-
 ## 🎯 Projects
 * [Federal Courts Software Factory, a centralized development and deployment environment that uses automation and standardized processes to develop software applications 🔗](https://github.com/federal-courts-software-factory)
 * [Saigo, a simple encryption toolkit written in Go 🔗](https://github.com/robertmcatee/saigo)
-* [Emacs Configuration File 🔗](https://github.com/robertmcatee/.emacs.d/blob/master/init.el)
 
 ## 👨‍💻 Setup
 * 🧮 Texas Instruments BA II Plus Professional Financial Calculator
