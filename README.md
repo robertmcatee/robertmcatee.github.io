@@ -74,7 +74,9 @@ ISC2 ID Number: 762770
 ## 💡 Interests
 * 🐃 GNU Hacking
 * ❄️ Air Conditioning and Refrigeration
-* 📡 Ham Radio
+  * [A/C Technician License 🔗](https://www.tdlr.texas.gov/LicenseSearch/SearchResultDetail.asp?1=ACTECH00136577&2=REG)
+  * [EPA Section 608 Technician Certification - Universal 🔗](https://skillcat.app/mod/customcert/verify_certificate.php?code=bCujoNpSN3)
+* 📡 Radio
 * 🎻 Fiddling
 * ☕ Coffee
 
