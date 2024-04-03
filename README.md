@@ -101,7 +101,7 @@ A+, Network+, Security+, Project+
 * Robert MᶜAtee claims trademark rights in the following: ROBERT MCATEE™, robertmcatee.net™. Any unauthorized use is expressly prohibited.
 * No engineering services or legal advice are offered to the public.
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Robert MᶜAtee
 ![qr code for this site](qr-code.png)
