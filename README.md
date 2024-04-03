@@ -23,6 +23,8 @@ Multiple Companies
 Western Governors University
 * Bachelor of Science, Information Technology \
 Western Governors University
+* Study Abroad in Mexico City \
+Universidad Nacional Autónoma de México
 
 ## 🪪 Licenses and certifications
 * [Certified Information Systems Security Professional (CISSP) 🔗](https://my.isc2.org/s/MemberVerification) \
@@ -48,6 +50,7 @@ ISC2 ID Number: 762770
 ## 🎖️ Honors & Awards
 * Kentucky Colonel, The Commonwealth of Kentucky
 * Honorary Colonel, The State of Alabama
+* Honorary Admiral in the Texas Navy, The State of Texas
 
 ## 🎗️ Volunteering
 * Cloud Native Computing Foundation
