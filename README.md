@@ -31,12 +31,9 @@ Universidad Nacional Autónoma de México
 ISC2 ID Number: 762770
 * [ITIL® Foundation Certificate in IT Service Management 🔗](https://www.peoplecert.org/for-corporations/certificate-verification-service) \
 Credential ID: GR671571199RM
-* [CompTIA Certifications \
-A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=2BP2YYWCBMVQKT5K)
+* [CompTIA Certifications 🔗](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=2BP2YYWCBMVQKT5K) \
+A+, Network+, Security+, Project+
 * [Contracting Officer's Representative (FAC-COR) 🔗](https://www.fai.gov/certification/fac-cor)
-* [Certified Internet Web Professional 🔗](https://cp.certmetrics.com/ciwcerts/en/public/transcript/cb5640a81705471a8223a746d1aef0d4)
-* [Microsoft Certified Professional 🔗](https://learn.microsoft.com/en-us/users/robertmcatee/transcript/d8yj2a02nko6nj0?source=docs)
-* [Oracle Certified Professional 🔗](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D028F30096A2F27F72F5F9549E08D4FE37FC7002EB92C9DEAEB12132AFEB7B8C)
 
 ## 🔰 Skills
 * Cloud Operations and Platform Enablement
@@ -84,7 +81,10 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
   * 🖲️ Logitech Trackman Marble
 
 ## 💡 Interests
-* 🐃 GNU Hacking
+* 🐃 Hacking
+  * [Certified Internet Web Professional 🔗](https://cp.certmetrics.com/ciwcerts/en/public/transcript/cb5640a81705471a8223a746d1aef0d4)
+  * [Microsoft Certified Professional 🔗](https://learn.microsoft.com/en-us/users/robertmcatee/transcript/d8yj2a02nko6nj0?source=docs)
+  * [Oracle Certified Professional 🔗](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D028F30096A2F27F72F5F9549E08D4FE37FC7002EB92C9DEAEB12132AFEB7B8C)
 * ❄️ Air Conditioning and Refrigeration
   * [A/C Technician License 🔗](https://www.tdlr.texas.gov/LicenseSearch/SearchResultDetail.asp?1=ACTECH00136577&2=REG)
   * [EPA Section 608 Technician Certification - Universal 🔗](https://skillcat.app/mod/customcert/verify_certificate.php?code=bCujoNpSN3)
@@ -101,7 +101,9 @@ A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/publ
 * Robert MᶜAtee claims trademark rights in the following: ROBERT MCATEE™, robertmcatee.net™. Any unauthorized use is expressly prohibited.
 * No engineering services or legal advice are offered to the public.
 
-<hr /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Robert MᶜAtee
 ![qr code for this site](qr-code.png)
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
