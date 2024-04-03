@@ -29,6 +29,14 @@ Universidad Nacional Autónoma de México
 ## 🪪 Licenses and certifications
 * [Certified Information Systems Security Professional (CISSP) 🔗](https://my.isc2.org/s/MemberVerification) \
 ISC2 ID Number: 762770
+* [ITIL® Foundation Certificate in IT Service Management 🔗](https://www.peoplecert.org/for-corporations/certificate-verification-service) \
+Credential ID: GR671571199RM
+* [CompTIA Certifications \
+A+, Network+, Security+, Project+ 🔗](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=2BP2YYWCBMVQKT5K)
+* [Contracting Officer's Representative (FAC-COR) 🔗](https://www.fai.gov/certification/fac-cor)
+* [Certified Internet Web Professional 🔗](https://cp.certmetrics.com/ciwcerts/en/public/transcript/cb5640a81705471a8223a746d1aef0d4)
+* [Microsoft Certified Professional 🔗](https://learn.microsoft.com/en-us/users/robertmcatee/transcript/d8yj2a02nko6nj0?source=docs)
+* [Oracle Certified Professional 🔗](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D028F30096A2F27F72F5F9549E08D4FE37FC7002EB92C9DEAEB12132AFEB7B8C)
 
 ## 🔰 Skills
 * Cloud Operations and Platform Enablement
@@ -44,13 +52,14 @@ ISC2 ID Number: 762770
 * Continuous improvement
 
 ## 🌐 Languages
-* German, Limited working proficiency
+* English, Native or bilingual proficiency 
 * Spanish, Native or bilingual proficiency 
+* German, Limited working proficiency
 
 ## 🎖️ Honors & Awards
-* Kentucky Colonel, The Commonwealth of Kentucky
-* Honorary Colonel, The State of Alabama
 * Honorary Admiral in the Texas Navy, The State of Texas
+* Honorary Colonel, The State of Alabama
+* Kentucky Colonel, The Commonwealth of Kentucky
 
 ## 🎗️ Volunteering
 * Cloud Native Computing Foundation
@@ -88,7 +97,11 @@ ISC2 ID Number: 762770
 * [GitHub Portfolio 🔗](https://github.com/robertmcatee)
 
 ## ⚖️ Disclaimers
-* No engineering services or legal advice are offered to the public.
 * The contents of this website are personal.
+* Robert MᶜAtee claims trademark rights in the following: ROBERT MCATEE™, robertmcatee.net™. Any unauthorized use is expressly prohibited.
+* No engineering services or legal advice are offered to the public.
 
+<hr /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+## Robert MᶜAtee
 ![qr code for this site](qr-code.png)
