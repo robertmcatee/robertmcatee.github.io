@@ -64,7 +64,6 @@ A+, Network+, Security+, Project+
 
 ## 📛 Memberships
 * Federal Bar Association
-* Free Software Foundation
 
 ## 🎯 Projects
 * [Federal Courts Software Factory, a centralized development and deployment environment that uses automation and standardized processes to develop software applications 🔗](https://github.com/federal-courts-software-factory)
