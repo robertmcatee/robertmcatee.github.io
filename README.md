@@ -1,6 +1,19 @@
 # About
 <img alt="a picture of robert" src="https://avatars.githubusercontent.com/u/5986785" width="153" height="153" align="right" style="padding:0.4rem" />Colonel Robert Timothy MᶜAtee, BSc, MBA, CISSP is an American computer programmer and technology executive with over 12 years of experience in software engineering and cloud native technologies. Robert is currently the Chief of the Hosting Services Division at the Administrative Office of the U.S. Courts, where he leads a team that provides a multi-cloud, multi-vendor ecosystem of cloud-based services and solutions to the federal judiciary. He is also the founder of the Federal Courts Software Factory, a centralized development and deployment environment that uses automation and standardized processes to develop software applications.
 
+## 🔰 Skills
+* Cloud Operations and Platform Enablement
+* Strategic IT leadership
+* Strong communication and interpersonal skills
+* Expertise in emerging technologies
+* Budget management and cost control
+* Risk management and cybersecurity
+* Project management and execution
+* Vendor management
+* Human resource management
+* Change management
+* Continuous improvement
+
 ## 💼 Experience
 * 2023 - Present \
 Chief of the Hosting Services Division \
@@ -29,22 +42,6 @@ Universidad Nacional Autónoma de México
 ## 🪪 Licenses and certifications
 * [Certified Information Systems Security Professional (CISSP) 🔗](https://my.isc2.org/s/MemberVerification) \
 ISC2 ID Number: 762770
-* [ITIL® Foundation Certificate in IT Service Management 🔗](https://www.peoplecert.org/for-corporations/certificate-verification-service) \
-Credential ID: GR671571199RM
-* [Contracting Officer's Representative (FAC-COR) 🔗](https://www.fai.gov/certification/fac-cor)
-
-## 🔰 Skills
-* Cloud Operations and Platform Enablement
-* Strategic IT leadership
-* Strong communication and interpersonal skills
-* Expertise in emerging technologies
-* Budget management and cost control
-* Risk management and cybersecurity
-* Project management and execution
-* Vendor management
-* Human resource management
-* Change management
-* Continuous improvement
 
 ## 🌐 Languages
 * English, Native or bilingual proficiency 
@@ -66,23 +63,6 @@ Credential ID: GR671571199RM
 ## 🎯 Projects
 * [Federal Courts Software Factory, a centralized development and deployment environment that uses automation and standardized processes to develop software applications 🔗](https://github.com/federal-courts-software-factory)
 * [Saigo, a simple encryption toolkit written in Go 🔗](https://github.com/robertmcatee/saigo)
-
-## 👨‍💻 Setup
-* 🧮 Texas Instruments BA II Plus Professional Financial Calculator
-* 📻 TYT MD-UV390 Digital Dual Band DMR Transceiver
-* 📱 Android on a Google Pixel 5a
-* 💻 Arch Linux on a Lenovo T440
-* 🖥️ Ubuntu on a Lenovo m93p
-  * 📺 Acer X233H 23.3” LCD Monitor
-  * ⌨️ Velocifire TKL02 87 Key Mechanical Keyboard
-  * 🖲️ Logitech Trackman Marble
-
-## 💡 Interests
-* 🐃 GNU Hacking
-* ❄️ Air Conditioning and Refrigeration
-* 📡 Radio
-* 🎻 Fiddling
-* ☕ Coffee
 
 ## 🗯️ Social Media
 * [LinkedIn Profile 🔗](https://www.linkedin.com/in/robertmcatee)
