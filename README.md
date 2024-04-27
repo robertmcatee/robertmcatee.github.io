@@ -42,6 +42,8 @@ Universidad Nacional Autónoma de México
 ## 🪪 Licenses and certifications
 * [Certified Information Systems Security Professional (CISSP) 🔗](https://my.isc2.org/s/MemberVerification) \
 ISC2 ID Number: 762770
+* [Amateur Radio License 🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=4941958) \
+Callsign: KJ5GBY
 
 ## 🌐 Languages
 * English, Native or bilingual proficiency 
