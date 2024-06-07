@@ -40,10 +40,18 @@ Western Governors University
 Universidad Nacional Autónoma de México
 
 ## 🪪 Licenses and certifications
-* [Certified Information Systems Security Professional (CISSP) 🔗](https://my.isc2.org/s/MemberVerification) \
-ISC2 ID Number: 762770
 * [Amateur Radio License 🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=4941958) \
 Callsign: KJ5GBY
+* [Certified Information Systems Security Professional (CISSP) 🔗](https://www.credly.com/badges/24217033-87b5-4758-9022-158394031e53/public_url) \
+International Information System Security Certification Consortium (ISC2)
+* [Professional Cloud Architect Certification](https://www.credly.com/badges/5f103564-6268-40e4-b5a7-bce3c8ff7dc1/public_url) \
+Google Cloud
+* [ITIL® Foundation Certificate in IT Service Management](https://www.peoplecert.org/for-corporations/certificate-verification-service) \
+Credential ID: GR671571199RM \
+PeopleCert
+* [Contracting Officer's Representative (FAC-COR)](https://www.fai.gov/certification/fac-cor) \
+U.S. Federal Acquisition Institute
+
 
 ## 🌐 Languages
 * English, Native or bilingual proficiency 
