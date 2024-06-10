@@ -50,8 +50,8 @@ Google Cloud
 * [Contracting Officer's Representative (FAC-COR) 🔗](https://www.fai.gov/certification/fac-cor) \
 U.S. Federal Acquisition Institute
 * [ITIL® Foundation Certificate in IT Service Management 🔗](https://www.peoplecert.org/for-corporations/certificate-verification-service) \
-PeopleCert
-Credential ID: GR671571199RM \
+PeopleCert \
+Credential ID: GR671571199RM
 
 ## 🌐 Languages
 * English, Native or bilingual proficiency 
