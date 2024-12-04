@@ -1,89 +1,20 @@
-# About
-<img alt="a picture of robert" src="https://avatars.githubusercontent.com/u/5986785" width="153" height="153" align="right" style="padding:0.4rem" />Colonel Robert Timothy MᶜAtee, BSc, MBA, CISSP is an American computer programmer and technology executive with over 12 years of experience in software engineering and cloud native technologies. Robert is currently the Chief of the Hosting Services Division at the Administrative Office of the U.S. Courts, where he leads a team that provides a multi-cloud, multi-vendor ecosystem of cloud-based services and solutions to the federal judiciary. He is also the founder of the Federal Courts Software Factory, a centralized development and deployment environment that uses automation and standardized processes to develop software applications.
+<img alt="a picture of robert" src="https://avatars.githubusercontent.com/u/5986785" width="153" height="153" align="right" style="padding:0.4rem" />
 
-## 🔰 Skills
-* Cloud Operations and Platform Enablement
-* Strategic IT leadership
-* Strong communication and interpersonal skills
-* Expertise in emerging technologies
-* Budget management and cost control
-* Risk management and cybersecurity
-* Project management and execution
-* Vendor management
-* Human resource management
-* Change management
-* Continuous improvement
+📍 San Antonio, TX
 
-## 💼 Experience
-* 2023 - Present \
-Chief of the Hosting Services Division \
-Administrative Office of the U.S. Courts
-* 2020 - 2023 \
-Director of Information Technology \
-U.S. Bankruptcy Court for the Western District of Texas
-* 2017 - 2019 \
-Associate Director of Information Technology \
-U.S. District Court for the Western District of Texas
-* 2014 - 2017 \
-Manager of Application Development \
-IBC Bank
-* 2007 - 2014 \
-Software Engineer \
-Multiple Companies
+📄 [Resume on LinkedIn](https://www.linkedin.com/in/robertmcatee)
 
-## 🎓 Education
-* Master of Business Administration \
-Western Governors University
-* Bachelor of Science, Information Technology \
-Western Governors University
-* Study Abroad in Mexico City \
-Universidad Nacional Autónoma de México
+🎯 [Software Engineer Portfolio on GitHub](https://github.com/robertmcatee)
 
-## 🪪 Licenses and certifications
-* [Amateur Radio License 🔗](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=4941958) \
-U.S. Federal Communications Commission\
-Callsign: KJ5GBY
-* [Certified Information Systems Security Professional (CISSP) 🔗](https://www.credly.com/badges/24217033-87b5-4758-9022-158394031e53/public_url) \
-International Information System Security Certification Consortium (ISC2)
-* [Professional Cloud Architect Certification 🔗](https://www.credly.com/badges/5f103564-6268-40e4-b5a7-bce3c8ff7dc1/public_url) \
-Google Cloud
-* [Contracting Officer's Representative (FAC-COR) 🔗](https://www.fai.gov/certification/fac-cor) \
-U.S. Federal Acquisition Institute
-* [ITIL® Foundation Certificate in IT Service Management 🔗](https://www.peoplecert.org/for-corporations/certificate-verification-service) \
-PeopleCert \
-Credential ID: GR671571199RM
+🗯️ [Microblog on X](https://x.com/RobertMcAtee)
 
-## 🌐 Languages
-* English, Native or bilingual proficiency 
-* Spanish, Native or bilingual proficiency 
-* German, Limited working proficiency
+⚖️ The contents of this website and social media websites are personal.
 
-## 🎖️ Honors & Awards
-* Honorary Admiral in the Texas Navy, The State of Texas
-* Honorary Colonel, The State of Alabama
-* Kentucky Colonel, The Commonwealth of Kentucky
+⚖️ No engineering services or legal advice are offered to the public.
 
-## 🎗️ Volunteering
-* Cloud Native Computing Foundation
-* Marine Corps Cyber Auxiliary
+™️ Robert MᶜAtee claims trademark rights in the following: ROBERT MCATEE™, Robert MᶜAtee™, robertmcatee.net™. Any unauthorized use is expressly prohibited.
 
-## 📛 Memberships
-* Federal Bar Association
-
-## 🎯 Projects
-* [Federal Courts Software Factory, a centralized development and deployment environment that uses automation and standardized processes to develop software applications 🔗](https://github.com/federal-courts-software-factory)
-* [Saigo, a simple encryption toolkit written in Go 🔗](https://github.com/robertmcatee/saigo)
-
-## 🗯️ Social Media
-* [LinkedIn Profile 🔗](https://www.linkedin.com/in/robertmcatee)
-* [GitHub Portfolio 🔗](https://github.com/robertmcatee)
-
-## ⚖️ Disclaimers
-* The contents of this website are personal.
-* Robert MᶜAtee claims trademark rights in the following: ROBERT MCATEE™, robertmcatee.net™. Any unauthorized use is expressly prohibited.
-* No engineering services or legal advice are offered to the public.
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Robert MᶜAtee
 ![qr code for this site](qr-code.png)
