@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 body {
-  background: white !important;
-  color: black !important;
+  background: #58111A !important;
+  color: goldenrod !important;
   font-family: verdana, sans-serif !important;
   font-size: 1.25rem !important;
 }
@@ -42,7 +42,7 @@ header h1 {
 }
 
 header h2 {
-  color: white !important;
+  color: #58111A !important;
   text-shadow: none !important;
   font-family: verdana, sans-serif !important;
   font-size: 1.25rem !important;
@@ -52,7 +52,7 @@ header h2 {
 }
 
 h1 {
-  color: black !important;
+  color: goldenrod !important;
   text-shadow: none !important;
   font-family: century, serif !important;
   font-size: 1.8rem !important;
@@ -60,7 +60,7 @@ h1 {
 }
 
 h2 {
-  color: black !important;
+  color: goldenrod !important;
   text-shadow: none !important;
   font-family: century, serif !important;
   font-size: 1.6rem !important;
@@ -68,7 +68,7 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color: black !important;
+  color: goldenrod !important;
   text-shadow: none !important;
   font-family: century, serif !important;
   font-size: 1.3rem !important;
@@ -80,7 +80,7 @@ ul li {
 }
 
 a {
-  color: #58111A !important;
+  color: white !important;
   text-shadow: none !important;
 }
 
