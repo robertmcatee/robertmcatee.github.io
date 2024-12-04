@@ -1,6 +1,6 @@
 Technology Executive · Enterprise Cloud · Platform Enablement · Application Security
 
-<img alt="a picture of robert" src="https://avatars.githubusercontent.com/u/5986785" width="153" height="153" align="right" style="padding:0.4rem" />
+<img alt="a picture of robert" src="https://avatars.githubusercontent.com/u/5986785" width="200" height="200" align="" style="padding:0.4rem" />
 
 📍 San Antonio, TX
 
