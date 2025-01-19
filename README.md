@@ -16,4 +16,4 @@ Technology Executive · Enterprise Cloud · Platform Enablement · Application S
 
 ![qr code for this site](qr-code.png)
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> 
