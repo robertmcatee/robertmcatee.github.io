@@ -2,7 +2,7 @@
 
 Robert MᶜAtee
 
-Technology Executive · Enterprise Cloud · Platform Enablement · Application Security
+IT Executive · Technology Strategist-Integrator · Leading Digital Transformation and Operational Excellence
 
 📍 San Antonio, TX
 
