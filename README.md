@@ -23,7 +23,7 @@
     </p>
     <div style="clear: both;"></div>
 </div>
-<a class="twitter-timeline" href="https://twitter.com/RobertMcAtee?ref_src=twsrc%5Etfw">Tweets by RobertMcAtee</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ![qr code for this site](qr-code.png)
