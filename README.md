@@ -1,5 +1,5 @@
 <div class="vcard" id="hcard-Robert-McAtee">
-    <img class="photo" src="https://avatars.githubusercontent.com/u/5986785" alt="A picture of Robert MᶜAtee" width="200" height="200" style="padding:0.4rem; float: left; margin-right: 1em;" />
+    <img class="photo" src="https://avatars.githubusercontent.com/u/5986785" alt="A picture of Robert MᶜAtee" width="200" height="200" align="" style="padding:0.4rem" />
     <p>
         <strong class="fn n">
             <span class="given-name">Robert</span>
