@@ -94,5 +94,5 @@ a {
 }
 
 .show-honorifics .honorific-prefix,.show-honorifics .honorific-suffix, .show-honorifics .additional-name, .show-honorifics .country-name {
-  display: block !important; /* Override inline or other styles */
+  display: inline !important; /* Override inline or other styles */
 }
