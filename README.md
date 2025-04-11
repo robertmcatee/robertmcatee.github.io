@@ -32,7 +32,7 @@
     <div style="clear: both;"></div>
 </div>
 
-<button onclick="document.body.classList.toggle('show-honorifics')">Show/Hide Full Details</button>
+<button onclick="document.body.classList.toggle('show-honorifics')">🧬</button>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
