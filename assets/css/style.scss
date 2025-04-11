@@ -88,3 +88,7 @@ a {
 .container {
   max-width: 855px !important;
 }
+
+.honorific-prefix,.honorific-suffix,.additional-name,.country-name {
+  display: none;
+}
