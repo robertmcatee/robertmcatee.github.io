@@ -2,9 +2,9 @@
     <img class="photo" src="https://avatars.githubusercontent.com/u/5986785" alt="A picture of Robert MᶜAtee" width="200" height="200" align="" style="padding:0.4rem" />
     <p>
         <div class="fn n">
-            <span class="honorific-prefix">Honorable</span>,
-            <span class="given-name">Robert</span>,
-            <span class="additional-name">Timothy</span>,
+            <span class="honorific-prefix">Honorable</span>
+            <span class="given-name">Robert</span>
+            <span class="additional-name">Timothy</span>
             <span class="family-name">MᶜAtee</span>
             <span class="honorific-suffix">von Herzhauser</span>,
             <span class="honorific-suffix">BSc</span>,
