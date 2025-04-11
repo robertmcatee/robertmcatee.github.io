@@ -1,10 +1,17 @@
 <div class="vcard" id="hcard-Robert-McAtee">
     <img class="photo" src="https://avatars.githubusercontent.com/u/5986785" alt="A picture of Robert MᶜAtee" width="200" height="200" align="" style="padding:0.4rem" />
     <p>
-        <strong class="fn n">
-            <span class="given-name">Robert</span>
+        <div class="fn n">
+            <span class="honorific-prefix">Honorable</span>,
+            <span class="given-name">Robert</span>,
+            <span class="additional-name">Timothy</span>,
             <span class="family-name">MᶜAtee</span>
-        </strong>
+            <span class="honorific-suffix">von Herzhauser</span>,
+            <span class="honorific-suffix">BSc</span>,
+            <span class="honorific-suffix">MBA</span>,
+            <span class="honorific-suffix">CISSP</span>,
+            <span class="honorific-suffix">Kentucky Colonel</span>
+        </div>
     </p>
     <p class="title">
         IT Executive · Delivering Modern & Efficient Systems to Enable Business Innovation
@@ -12,7 +19,8 @@
     <p class="adr">
         <span class="locality">San Antonio</span>,
         <span class="region">TX</span>
-        <span class="country-name" style="display:none;">USA</span> </p>
+        <span class="country-name">USA</span>
+    </p>
     <p>
         Website: <a class="url" href="https://robertmcatee.net">https://robertmcatee.net</a>
     </p>
