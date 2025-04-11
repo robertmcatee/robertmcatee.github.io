@@ -92,3 +92,7 @@ a {
 .honorific-prefix,.honorific-suffix,.additional-name,.country-name {
   display: none;
 }
+
+.show-honorifics .honorific-prefix,.show-honorifics .honorific-suffix, .show-honorifics .additional-name, .show-honorifics .country-name {
+  display: block !important; /* Override inline or other styles */
+}
