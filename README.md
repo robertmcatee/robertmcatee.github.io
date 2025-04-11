@@ -32,6 +32,8 @@
     <div style="clear: both;"></div>
 </div>
 
+<button onclick="document.body.classList.toggle('show-honorifics')">Show/Hide Full Details</button>
+
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ![qr code for this site](qr-code.png)
