@@ -10,7 +10,6 @@
             <span class="honorific-suffix">BSc</span>
             <span class="honorific-suffix">MBA</span>
             <span class="honorific-suffix">CISSP</span>
-            <span class="honorific-suffix">Kentucky Colonel</span>
         </div>
     </p>
     <p class="title">
