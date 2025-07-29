@@ -6,7 +6,6 @@
             <span class="given-name">Robert</span>
             <span class="additional-name">Timothy</span>
             <span class="family-name">MᶜAtee</span>
-            <span class="honorific-suffix">Herzhauser</span>
             <span class="honorific-suffix">BSc</span>
             <span class="honorific-suffix">MBA</span>
             <span class="honorific-suffix">CISSP</span>
