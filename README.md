@@ -13,7 +13,7 @@
         </div>
     </p>
     <p class="title">
-        IT Executive · Delivering Modern & Efficient Systems to Enable Business Innovation
+        Technology Executive · Delivering Modern & Efficient Systems to Enable Business Innovation
     </p>
     <p class="adr">
         <span class="locality">San Antonio</span>,
