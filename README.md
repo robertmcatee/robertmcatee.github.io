@@ -1,16 +1,18 @@
 <div class="vcard" id="hcard-Robert-McAtee">
     <img class="photo" src="https://avatars.githubusercontent.com/u/5986785" alt="A picture of Robert MᶜAtee" width="200" height="200" align="" style="padding:0.4rem" />
-    <p>
+    <br />
         <div class="fn n">
             <span class="honorific-prefix">Honorable</span>
+    <br />
             <span class="given-name">Robert</span>
             <span class="additional-name">Timothy</span>
             <span class="family-name">MᶜAtee</span>
+    <br />
             <span class="honorific-suffix">BSc</span>
             <span class="honorific-suffix">MBA</span>
             <span class="honorific-suffix">CISSP</span>
         </div>
-    </p>
+    <br />
     <p class="title">
         Technology Executive · Delivering Modern & Efficient Systems to Enable Business Innovation
     </p>
