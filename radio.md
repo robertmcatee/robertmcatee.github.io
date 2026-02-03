@@ -7,7 +7,7 @@ TG 310217 (XLX410A) TalkGroup/310217 - BrandMeister (pd0zry.nl) - This talkgroup
 TYT MD-UV390 Plus - Digital Dual Band DMR Transceiver with a trunk mounted antenna
 
 ## Callsigns
-Amateur Radio: KJ5GBY
+Amateur Radio: KJ5GBY 
 
 GMRS: TBD
 
