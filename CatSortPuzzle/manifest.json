@@ -1,0 +1,20 @@
+{
+  "name": "Cat Sort Puzzle",
+  "short_name": "CatSort",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#87CEEB",
+  "icons": [
+    {
+      "src": "assets/cat_orange.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/cat_orange.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

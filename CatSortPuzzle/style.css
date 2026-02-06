@@ -1,0 +1,187 @@
+:root {
+    --primary-font: 'Comic Sans MS', 'Chalkboard SE', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    user-select: none; /* Prevent selection */
+    -webkit-user-select: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: var(--primary-font);
+    background-color: #87CEEB;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#game-container {
+    width: 100%;
+    height: 100%;
+    max-width: 800px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.background-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('assets/background.png');
+    background-size: cover;
+    background-position: center bottom;
+    z-index: -1;
+    opacity: 0.8;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    z-index: 10;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 0px #000;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+/* Houses Area */
+#houses-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    height: 45%;
+    padding-bottom: 20px;
+}
+
+.house {
+    width: 22%;
+    height: 80%;
+    background-image: url('assets/house_base.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    transition: transform 0.2s;
+}
+
+.house.drag-over {
+    transform: scale(1.1);
+}
+
+/* Color Filters for Houses */
+/* Base is Orange */
+.house.orange { filter: none; } 
+.house.blue { filter: hue-rotate(180deg) brightness(1.2); } /* Orange -> Blueish */
+.house.green { filter: hue-rotate(100deg) brightness(1.1); } /* Orange -> Greenish */
+.house.purple { filter: hue-rotate(280deg); } /* Orange -> Purpleish */
+
+
+/* Cats Area */
+#cats-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 40%;
+    padding-top: 10px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 20px 20px 0 0;
+}
+
+.cat {
+    width: 80px;
+    height: 80px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: grab;
+    z-index: 100;
+    transition: transform 0.1s;
+    touch-action: none; /* Critical for custom touch handling */
+}
+
+.cat:active {
+    cursor: grabbing;
+    transform: scale(1.2);
+}
+
+.cat.matched {
+    opacity: 0; /* Hide from bottom container when matched (or move logic) */
+    pointer-events: none;
+}
+
+/* Win Screen */
+#win-screen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+#win-screen.hidden {
+    display: none;
+}
+
+.win-content {
+    background: white;
+    padding: 2rem;
+    border-radius: 20px;
+    text-align: center;
+    animation: popIn 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.win-content h2 {
+    font-size: 3rem;
+    color: #FF5722;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 1.5rem;
+    padding: 10px 30px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0 4px #2E7D32;
+}
+
+button:active {
+    box-shadow: 0 0 #2E7D32;
+    transform: translateY(4px);
+}
+
+@keyframes popIn {
+    from { transform: scale(0); }
+    to { transform: scale(1); }
+}
+
+@media (max-width: 600px) {
+    .cat { width: 60px; height: 60px; }
+    h1 { font-size: 1.5rem; }
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Cat Sort Puzzle</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="assets/cat_orange.png">
+    <meta name="theme-color" content="#87CEEB">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+</head>
+<body>
+    <div id="game-container">
+        <!-- Background Layer -->
+        <div class="background-layer"></div>
+        
+        <!-- Game Area -->
+        <header>
+            <h1>Cat Sort!</h1>
+        </header>
+
+        <main>
+            <div id="houses-container">
+                <div class="house orange" data-color="orange"></div>
+                <div class="house blue" data-color="blue"></div>
+                <div class="house green" data-color="green"></div>
+                <div class="house purple" data-color="purple"></div>
+            </div>
+
+            <div id="cats-container">
+                <!-- Cats will be injected here or hardcoded -->
+                <div class="cat" draggable="true" data-color="orange" style="background-image: url('assets/cat_orange.png')"></div>
+                <div class="cat" draggable="true" data-color="blue" style="background-image: url('assets/cat_blue.png')"></div>
+                <div class="cat" draggable="true" data-color="green" style="background-image: url('assets/cat_green.png')"></div>
+                <div class="cat" draggable="true" data-color="purple" style="background-image: url('assets/cat_purple.png')"></div>
+            </div>
+        </main>
+
+        <div id="win-screen" class="hidden">
+            <div class="win-content">
+                <h2>Good Job! 🎉</h2>
+                <button id="restart-btn">Play Again</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js')
+                .then(() => console.log('Service Worker Registered'));
+        }
+    </script>
+</body>
+</html>
