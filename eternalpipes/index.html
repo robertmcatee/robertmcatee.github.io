@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Eternal Pipes - Cock o' the North</title>
+    <style>
+        body { 
+            background: #0d0d0d; 
+            color: #f2f2f2; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            height: 100vh; 
+            margin: 0;
+            font-family: 'Garamond', serif; 
+        }
+
+        .highland-box { 
+            text-align: center; 
+            border: 5px double #4b5320; /* Regimental Green */
+            padding: 50px; 
+            background: #1a1a1a;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.9);
+            border-radius: 4px;
+            max-width: 400px;
+        }
+
+        h2 { 
+            color: #ffd700; 
+            text-transform: uppercase; 
+            letter-spacing: 4px; 
+            margin-bottom: 10px;
+        }
+
+        p { color: #8b949e; font-style: italic; margin-bottom: 30px; }
+
+        .controls { display: flex; gap: 15px; justify-content: center; }
+
+        button { 
+            padding: 15px 25px; 
+            font-size: 0.9rem; 
+            background: #8b0000; 
+            color: #ffd700; 
+            border: 2px solid #ffd700; 
+            cursor: pointer;
+            font-weight: bold;
+            text-transform: uppercase;
+            transition: all 0.2s ease;
+        }
+
+        button.stop {
+            background: #2b2b2b;
+            color: #777;
+            border-color: #444;
+        }
+
+        button:hover:not(:disabled) { 
+            background: #a50000; 
+            transform: scale(1.05);
+        }
+
+        button:disabled { cursor: not-allowed; opacity: 0.5; }
+
+        #status { 
+            margin-top: 30px; 
+            color: #ffd700; 
+            letter-spacing: 2px;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="highland-box">
+  <h2>The Eternal Pipes</h2>
+  <p>Cock o' the North (Gordon Highlanders)</p>
+  
+  <div class="controls">
+    <button id="playBtn">Strike the Pipes</button>
+    <button id="stopBtn" class="stop">Cease Fire</button>
+  </div>
+  
+  <div id="status">READY TO MARCH</div>
+</div>
+
+<script>
+const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+
+const notes = {
+  'A4': 440.00, 'B4': 493.88, 'C#5': 554.37, 'D5': 587.33, 
+  'E5': 659.25, 'F#5': 739.99, 'G5': 783.99, 'A5': 880.00
+};
+
+// 6/8 Time Jig: [Note, Duration in 8th-note units]
+const score = [
+  ['A4', 1], ['A4', 1], ['B4', 1], 
+  ['C#5', 2], ['A4', 1], ['D5', 2], ['A4', 1], 
+  ['E5', 2], ['A4', 1], ['F#5', 1], ['E5', 1], ['D5', 1],
+  ['C#5', 1], ['B4', 1], ['A4', 1], ['B4', 2], ['C#5', 1], 
+  ['B4', 2], ['E5', 1],
+  ['A4', 1], ['A4', 1], ['B4', 1], 
+  ['C#5', 2], ['A4', 1], ['D5', 2], ['A4', 1], 
+  ['E5', 2], ['A4', 1], ['F#5', 1], ['E5', 1], ['D5', 1],
+  ['C#5', 2], ['B4', 1], ['A4', 2], ['G4', 1],
+  ['A4', 3], ['A4', 3]
+];
+
+let isPlaying = false;
+let droneNodes = [];
+let melodyTimeout;
+
+function startDrone() {
+  // Bagpipe Drones: Bass (A2) and two Tenors (A3)
+  const droneFreqs = [110, 220, 221.5]; // 221.5 creates that "chorus" beating
+  
+  droneFreqs.forEach(freq => {
+    const osc = audioCtx.createOscillator();
+    const gain = audioCtx.createGain();
+    const filter = audioCtx.createBiquadFilter();
+
+    osc.type = 'sawtooth'; 
+    osc.frequency.setValueAtTime(freq, audioCtx.currentTime);
+    
+    filter.type = 'lowpass';
+    filter.frequency.setValueAtTime(700, audioCtx.currentTime);
+
+    gain.gain.setValueAtTime(0, audioCtx.currentTime);
+    gain.gain.linearRampToValueAtTime(0.04, audioCtx.currentTime + 1.5);
+
+    osc.connect(filter);
+    filter.connect(gain);
+    gain.connect(audioCtx.destination);
+    
+    osc.start();
+    droneNodes.push({ osc, gain });
+  });
+}
+
+function stopAll() {
+  isPlaying = false;
+  clearTimeout(melodyTimeout);
+  
+  droneNodes.forEach(node => {
+    node.gain.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + 0.8);
+    setTimeout(() => node.osc.stop(), 800);
+  });
+  
+  droneNodes = [];
+  document.getElementById('status').textContent = "SILENCE REGAINED";
+  document.getElementById('playBtn').disabled = false;
+}
+
+function playMelody(startTime) {
+  if (!isPlaying) return;
+
+  const beat = 0.18; // Speed of 8th note
+  let now = startTime;
+  let totalDuration = 0;
+
+  score.forEach(([note, dur]) => {
+    const freq = notes[note];
+    if (freq) {
+      const osc = audioCtx.createOscillator();
+      const gain = audioCtx.createGain();
+      const filter = audioCtx.createBiquadFilter();
+      
+      osc.type = 'sawtooth';
+      osc.frequency.setValueAtTime(freq, now);
+      
+      filter.type = 'lowpass';
+      filter.frequency.setValueAtTime(1400, now);
+
+      gain.gain.setValueAtTime(0, now);
+      gain.gain.linearRampToValueAtTime(0.08, now + 0.01);
+      gain.gain.linearRampToValueAtTime(0.08, now + (dur * beat) - 0.02);
+      gain.gain.linearRampToValueAtTime(0, now + (dur * beat));
+
+      osc.connect(filter);
+      filter.connect(gain);
+      gain.connect(audioCtx.destination);
+      osc.start(now);
+      osc.stop(now + (dur * beat));
+    }
+    now += (dur * beat);
+    totalDuration += (dur * beat);
+  });
+
+  // Recursive call for the loop
+  melodyTimeout = setTimeout(() => {
+    if (isPlaying) playMelody(audioCtx.currentTime);
+  }, totalDuration * 1000);
+}
+
+document.getElementById('playBtn').addEventListener('click', () => {
+  if (isPlaying) return;
+  if (audioCtx.state === 'suspended') audioCtx.resume();
+  
+  isPlaying = true;
+  document.getElementById('playBtn').disabled = true;
+  document.getElementById('status').textContent = "THE GORDONS ARE MARCHING";
+  
+  startDrone();
+  playMelody(audioCtx.currentTime + 0.5);
+});
+
+document.getElementById('stopBtn').addEventListener('click', stopAll);
+</script>
+
+</body>
+</html>
