@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "net.robertmcatee.cozycats",
+               "sha256_cert_fingerprints": ["24:D4:29:EB:FB:1D:30:0A:95:0D:C3:74:CE:B7:17:22:9F:49:AF:DE:F9:6A:30:B1:7F:E6:62:A4:7B:54:08:B5"] }
+}]
