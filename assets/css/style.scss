@@ -26,14 +26,6 @@ header h1:before {
   content: "" !important;
 }
 
-header h1:after {
-  content: "™";
-  font-size: 0.4em;
-  vertical-align: middle;
-  position: relative;
-  top: -0.33em;
-}
-
 header h1 {
   color: goldenrod !important;
   text-shadow: none !important;
