@@ -12,7 +12,7 @@
         <span class="honorific-suffix">CISSP</span>
     </div>
     <p class="title">
-        Technology Executive · Delivering Modern & Efficient Systems to Enable Business Innovation
+        Software engineer. Technology executive in the federal judiciary.
     </p>
     <p class="adr">
         <span class="locality">San Antonio</span>,
