@@ -32,9 +32,9 @@ by an RTL-SDR from a patio sensor — on APRS-IS and simultaneously
 on 144.390 MHz RF — and then speaks its ID, the time, and the
 temperature on 146.430.
 
-ShellBeacon is listed on the APRS Foundation's New Developments
-page: https://how.aprs.works/new-developments/
-Code: https://github.com/robertmcatee/shellbeacon-telemetry
+ShellBeacon is listed on the [APRS Foundation's New Developments
+page](https://how.aprs.works/new-developments/).
+Code: [shellbeacon-telemetry on GitHub](https://github.com/robertmcatee/shellbeacon-telemetry)
 
 ## My setup
 
