@@ -38,12 +38,15 @@ Code: [shellbeacon-telemetry on GitHub](https://github.com/robertmcatee/shellbea
 
 ## My setup
 
-TYT MD-UV390 Plus mobile (DMR/UHF/VHF) · Pi Zero W APRS station
+TYT MD-UV390 Plus handheld (DMR/UHF/VHF) — mobile on a trunk-mounted
+antenna, and my 146.430 monitor at home · Pi Zero W APRS station
 with a homebrew ground-plane antenna · RTL-SDR Blog V3
 
 ## Callsigns
 
 Amateur Radio: KJ5GBY
+
+QSL: via the QRZ Logbook
 
 ## Online
 
