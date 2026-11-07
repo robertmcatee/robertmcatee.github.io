@@ -1,0 +1,42 @@
+<div class="vcard" id="hcard-Robert-McAtee">
+    <img class="photo" src="https://avatars.githubusercontent.com/u/5986785" alt="A picture of Robert MᶜAtee" width="200" height="200" align="" style="padding:0.4rem" />
+    <div class="fn n">
+        <span class="honorific-prefix">Honorable</span>
+        <div style="display:block;">
+            <span class="given-name">Robert</span>
+            <span class="additional-name">Timothy</span>
+            <span class="family-name">MᶜAtee</span>
+        </div>
+        <span class="honorific-suffix">BSc</span>
+        <span class="honorific-suffix">MBA</span>
+        <span class="honorific-suffix">CISSP</span>
+    </div>
+    <p class="title">
+        Software engineer. Technology executive in the federal judiciary.
+    </p>
+    <p class="adr">
+        <span class="locality">San Antonio</span>,
+        <span class="region">TX</span>
+        <span class="country-name">USA</span>
+    </p>
+    <p>
+        Website: <a class="url" href="https://robertmcatee.net">https://robertmcatee.net</a>
+    </p>
+    <p>Profiles:
+        <a class="url" rel="me" href="https://www.linkedin.com/in/robertmcatee">LinkedIn</a> |
+        <a class="url" rel="me" href="https://github.com/robertmcatee">GitHub</a> |
+        <a class="url" rel="me" href="https://x.com/RobertMcAtee">𝕏</a>
+    </p>
+    <p>
+        Work: <a href="/projects">Projects</a> — the shelf of current pieces.
+    </p>
+    <div style="clear: both;"></div>
+</div>
+
+<button onclick="document.body.classList.toggle('show-honorifics')">🧬</button>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+![qr code for this site](qr-code.png)
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> 
